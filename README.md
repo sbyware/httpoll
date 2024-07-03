@@ -5,6 +5,7 @@ easy http endpoint polling, built with Go
 ## Installation
 
 ```bash
+go get -u github.com/sbyware/httpoll
 go install github.com/sbyware/httpoll
 ```
 ### Manual Installation
